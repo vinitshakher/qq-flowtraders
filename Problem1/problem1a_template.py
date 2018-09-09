@@ -5,10 +5,10 @@
 ##################################################################################
 #                                LOGIC GOES BELOW                     		#
 ##################################################################################
-#
-#
-#
-#
+#Each roll has equal probality of 1/6 or 0.166~0.17.
+#So the total expexted pay off is equals to 0.17*1+0.17*2+0.17*3+0.17*4+0.17*5+0.17*6 which comes out to be 3.57.
+# We keep rolling the dice untill we get the value of Expected Pay off greater then 3.57.
+# once We get 6 in the initial roll  we stop the program and return the sum value of the program.
 #
 ##################################################################################
 ##################################################################################
